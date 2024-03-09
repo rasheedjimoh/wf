@@ -20,6 +20,11 @@ At its core, Windows Defender Firewall is like a digital force field that surrou
 
 5. **Active Protection:** Windows Defender Firewall continuously monitors network traffic in real-time, actively blocking malicious connections and suspicious activities to keep your system safe from cyber threats.
 
+![wf1](https://github.com/rasheedjimoh/wf/assets/157264080/e0d44df8-1335-4a38-936e-8831b777e15f)
+
+
+
+
 **Best Practices for Windows Defender Firewall:**
 
 1. **Keep it Enabled:** Always ensure that Windows Defender Firewall is enabled on your devices. It serves as the first line of defense against cyber threats and helps prevent unauthorized access to your system.
@@ -33,8 +38,5 @@ At its core, Windows Defender Firewall is like a digital force field that surrou
 5. **Educate Users:** Educate users about the importance of Windows Defender Firewall and how to recognize and respond to potential security threats. Awareness and vigilance are key components of a strong cybersecurity posture.
 
 In conclusion, Windows Defender Firewall is a powerful and essential tool for protecting our systems from cyber threats. By understanding its features, benefits, and best practices, we can maximize its effectiveness and ensure the security of our devices and data.
-
-![wf1](https://github.com/rasheedjimoh/wf/assets/157264080/e0d44df8-1335-4a38-936e-8831b777e15f)
-
 
 Stay safe and secure!
