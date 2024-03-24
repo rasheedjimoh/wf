@@ -5,7 +5,7 @@ I'm diving into a critical topic for keeping our servers safe and sound: Windows
 
 ![wf0](https://github.com/rasheedjimoh/wf/assets/157264080/cb962ba2-decb-4227-a568-ad4ada5c3f39)
 
-**Understanding Windows Defender Firewall for Server Protection**
+## Understanding Windows Defender Firewall for Server Protection
 
 Windows Defender Firewall is a crucial component of server security. It acts as a digital shield, filtering incoming and outgoing network traffic to protect against potential threats.
 
@@ -23,7 +23,7 @@ Windows Defender Firewall is a crucial component of server security. It acts as 
 
 ![wf1](https://github.com/rasheedjimoh/wf/assets/157264080/e0d44df8-1335-4a38-936e-8831b777e15f)
 
-**Best Practices for Windows Defender Firewall:**
+## Best Practices for Windows Defender Firewall
 
 1. **Keep it Enabled:** Always make sure Windows Defender Firewall is enabled on your servers to prevent unauthorized access.
 
